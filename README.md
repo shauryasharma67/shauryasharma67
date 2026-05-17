@@ -85,18 +85,7 @@
 - 🥇 **1st Position** — CU MCA Solo Problem Solving Competition
 - 🥈 **2nd Prize** — Panjab University Physics Fest
 - 🎓 **Merit Scholarship Recipient** — MCA Program, Chandigarh University
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shaurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shauryasharma67&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shauryasharma67&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-</div>
+  
 
 ---
 
