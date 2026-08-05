@@ -86,17 +86,6 @@
 - 🥈 **2nd Prize** — Panjab University Physics Fest
 - 🎓 **Merit Scholarship Recipient** — MCA Program, Chandigarh University
   
-
----
-
-## 📈 Contribution Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shauryasharma67&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
